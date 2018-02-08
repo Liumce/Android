@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@mipmap/order_mode"
+        android:orderInCategory="100"
+        android:title=""
+        android:showAsAction="always">
+       <menu>
+           <item
+               android:id="@+id/action_default_order"
+               android:icon="@mipmap/default_order"
+               android:checked="true"
+               android:showAsAction="always"
+               android:title="@string/default_order"/>
+           <item
+               android:id="@+id/action_title_order"
+               android:icon="@mipmap/title_order"
+               android:showAsAction="always"
+               android:title="@string/title_order"/>
+           <item
+               android:id="@+id/action_duration_order"
+               android:icon="@mipmap/duration_order"
+               android:showAsAction="always"
+               android:title="@string/duration_order"/>
+       </menu>
+    </item>
+</menu>

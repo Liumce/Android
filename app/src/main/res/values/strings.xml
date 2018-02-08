@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">访问网络乐库</string>
+    <string name="user_login">用户登录</string>
+    <string name="username">账号：</string>
+    <string name="password">密码：</string>
+    <string name="login">登录</string>
+    <string name="cancel">取消</string>
+    <string name="input_username">输入账号</string>
+    <string name="input_password">输入密码</string>
+    <string name="scan_music">扫描存储卡上全部MP3音乐，请耐心等待……</string>
+    <string name="play_mode">播放模式：</string>
+    <string name="order">顺序</string>
+    <string name="loop">单曲循环</string>
+    <string name="random">随机</string>
+    <string name="title">基于媒体库音乐播放器v2.0</string>
+    <string name="version">Version2.0</string>
+    <string name="author">泸职院信息系·刘茂</string>
+    <string name="default_order">默认排序</string>
+    <string name="title_order">按标题排序</string>
+    <string name="duration_order">按时长排序</string>
+    <string name="title_activity_main">访问网络乐库V2.0</string>
+
+</resources>
